@@ -1,4 +1,4 @@
-name: Build_oneplus_sm8650
+name: Build_oneplus_sm8650_8gen3
 on:
   workflow_dispatch:
     inputs:
